@@ -7,3 +7,5 @@ This will demonstrate my skills in:
 - Git
 - GitHub
 - File management
+
+Pulled images and recipes directly from Allrecipes.com
